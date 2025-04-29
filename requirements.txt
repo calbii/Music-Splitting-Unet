@@ -1,0 +1,8 @@
+fast_bss_eval==0.1.4
+librosa==0.10.2.post1
+musdb==0.4.2
+numpy==2.2.5
+torch==2.6.0+cu126
+torchaudio==2.6.0+cu126
+torchmetrics==1.6.3
+tqdm==4.67.1
